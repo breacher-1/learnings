@@ -1,1 +1,3 @@
 https://cloud.google.com/discover/what-is-prompt-engineering?hl=en
+
+https://python.langchain.com/v0.1/docs/modules/model_io/prompts/few_shot_examples_chat/
